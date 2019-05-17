@@ -1,9 +1,8 @@
 # Simon-Tatham-s-Twiddle-3x3
 C file
 
->I made this file for my AI class
-basically any inputs you give to the programm, It's going to solve it
-Algorithm is: 
+##I made this file for my AI class,basically any inputs you give to the programm it's going to solve it
+###Algorithm is: 
 -First and Second row numbers get to their positions:
 1-2-3
 4-5-6
