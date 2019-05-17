@@ -16,12 +16,12 @@ without turning the first 2 rows in bad position.
 - Probably not the fastest way to solve the puzzle but it works
 
 - Algorithm:
-1. alg:
-7 9 8 --> 9 8 7 --> 8 7 9 --> alg2 --> 9 7 8
+ 1. alg:
+ 7 9 8 --> 9 8 7 --> 8 7 9 --> alg2 --> 9 7 8
 
--variations: (right : 7 8 9)
--7 9 8 done
--8 7 9 done
--8 9 7 ->  9 7 8 with algorithm
--9 7 8 done 
--9 8 7 done 
+- variations: (right : 7 8 9)
+- 7 9 8 done
+- 8 7 9 done
+- 8 9 7 ->  9 7 8 with algorithm
+- 9 7 8 done 
+- 9 8 7 done 
