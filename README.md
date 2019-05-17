@@ -9,15 +9,17 @@ C file
 x-x-x
 
 -The remaining last row with the 'x-x-x' is : 7-8-9 with any variations (8-9-7,9-7-8,....)
+
 -Made an algorithm,which always turn this last row to a position, where it can be done with a few more steps,
 without turning in bad position the first 2 rows.
+
 -Probably not the fastest way to solve the puzzle, but it works
 
-algorithm:
+-algorithm:
 1. alg:
 7 9 8 --> 9 8 7 --> 8 7 9 --> alg2 --> 9 7 8
 
-variations: (right : 7 8 9)
+-variations: (right : 7 8 9)
 7 9 8 done
 8 7 9 done
 8 9 7 ->  9 7 8 with algorithm
